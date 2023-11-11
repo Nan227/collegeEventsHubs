@@ -21,19 +21,19 @@ export default function Topbar(){
       </div>
       <div className = "topbarIcons">
       <div className = "topbarIconsItem">
-         {/* <Person />*/} 
+      <img src ="/assets/icons/person-64.png" alt = "" className = "topbarImg"/>
         <span className = "topbarIconBadge">1</span>
       </div>
       <div className = "topbarIconsItem">
-         {/* <Chat />*/} 
+      <img src ="/assets/icons/chat-64.png" alt = "" className = "topbarImg"/>
         <span className = "topbarIconBadge">2</span>
       </div>
       <div className = "topbarIconsItem">
-         {/* <Notifications />*/} 
+        <img src ="/assets/icons/notification-bell-24.png" alt = "" className = "topbarImg"/>
         <span className = "topbarIconBadge">1</span>
       </div> 
     </div>   
-    <img src ="/assets/person/1.jpeg" alt = "" className = "topbarImg"/>
+    <img src ="/assets/profilepictures/piyaporn.JPG" alt = "" className = "topbarImg"/>
     </div>  
     </div>
 
