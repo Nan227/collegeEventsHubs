@@ -15,8 +15,7 @@ export default function Topbar(){
       </div>
       <div className = "topbarRight">
       <div className = "topbarLinks">
-        {/*<span className = "topbarLink">Homepage</span>
-        <span className = "topbarLink">Timeline</span>*/}
+    
       </div>
       <div className = "topbarIcons">
       <div className = "topbarIconsItem">
@@ -28,7 +27,7 @@ export default function Topbar(){
         <span className = "topbarIconBadge">2</span>
       </div>
       <div className = "topbarIconsItem">
-        <img src ="/assets/icons/notification-bell-24.png" alt = "" className = "topbarImg"/>
+        <img src ="/assets/icons/bell-24.png" alt = "" className = "topbarImg"/>
         <span className = "topbarIconBadge">1</span>
       </div> 
     </div>   

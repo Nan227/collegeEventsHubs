@@ -33,6 +33,24 @@ export default function Sidebar() {
              <span className ="sidebarListItemText">Questions </span>
             </li>
           </ul>
+         
+          
+          <h3>Online:</h3>
+            <hr className = "sidebarHr"/>
+            <ul clssName = "sidebarFriendList">
+              <li className ="sidebarFriend">
+                <img className="sidebarFrindImg" src="/assets/profilepictures/liliana.jpg"alt=""/>
+                <span className="sidebarFriendName">Liliana Cortes</span>
+
+              </li>
+              <li className ="sidebarFriend">
+                <img className="sidebarFrindImg" src="/assets/profilepictures/ariana.jpg"alt=""/>
+                <span className="sidebarFriendName">Ariana Smallwood</span>
+                
+              </li>
+            </ul>
+
+         
         </div>
       </div>      
   )
