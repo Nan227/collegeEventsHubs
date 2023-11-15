@@ -5,3 +5,18 @@
 .feedWrapper{
   padding: 20px;
 }
+.card{
+  width: 250px;
+  margin:10px;
+  background-color: white;
+  text-align: center;
+  position: relative;
+  
+  
+
+}
+img{
+  width: 200px;
+  margin:10px;
+  height: 80px;
+}
