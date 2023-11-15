@@ -27,13 +27,13 @@ export default function Feed() {
           <br/>
           <img src="/assets/companies/facebook.png" alt="" />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+          <h3 class="card-title">FaceBook: Software Engineer</h3>
             <p class="card-text">
-              Some quick example text to build on the card title and make up
-              the bulk of the card's content.
+              Meet up with senior software engineer team and how to gain insight the intern this Summer
             </p>
+            <p>Virtual - December 25 at 2:30 ET</p>
             <a href="#" class="btn btn-primary">
-              Go somewhere
+              <strong>Get more information</strong>
             </a>
           </div>
         </div>
@@ -42,13 +42,13 @@ export default function Feed() {
           <br/>
           <img src="/assets/companies/ig.jpg" alt="" />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+          <h3 class="card-title">Instagram: Software Engineer</h3>
             <p class="card-text">
-              Some quick example text to build on the card title and make up
-              the bulk of the card's content.
+              Meet up with senior software engineer team and how to gain insight the intern this Summer
             </p>
+            <p>Virtual - December 25 at 2:30 ET</p>
             <a href="#" class="btn btn-primary">
-              Go somewhere
+              <strong>Get more information</strong>
             </a>
           </div>
         </div>
@@ -60,13 +60,13 @@ export default function Feed() {
           <br/>
           <img src="/assets/companies/apple.jpg" alt="" />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+          <h3 class="card-title">Apple: Software Engineer</h3>
             <p class="card-text">
-              Some quick example text to build on the card title and make up
-              the bulk of the card's content.
+              Meet up with senior software engineer team and how to gain insight the intern this Summer
             </p>
+            <p>Virtual - December 25 at 2:30 ET</p>
             <a href="#" class="btn btn-primary">
-              Go somewhere
+              <strong>Get more information</strong>
             </a>
           </div>
         </div>
@@ -76,13 +76,13 @@ export default function Feed() {
           <br/>
           <img src="/assets/companies/microsoft.svg" alt="" />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+          <h3 class="card-title">Microsoft: Software Engineer</h3>
             <p class="card-text">
-              Some quick example text to build on the card title and make up
-              the bulk of the card's content.
+              Meet up with senior software engineer team and how to gain insight the intern this Summer
             </p>
+            <p>Virtual - December 25 at 2:30 ET</p>
             <a href="#" class="btn btn-primary">
-              Go somewhere
+              <strong>Get more information</strong>
             </a>
           </div>
         </div>
@@ -91,13 +91,13 @@ export default function Feed() {
           <br/>
           <img src="/assets/companies/amazon.png" alt="" />
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+          <h3 class="card-title">Amazon: Software Engineer</h3>
             <p class="card-text">
-              Some quick example text to build on the card title and make up
-              the bulk of the card's content.
+              Meet up with senior software engineer team and how to gain insight the intern this Summer
             </p>
+            <p>Virtual - December 25 at 2:30 ET</p>
             <a href="#" class="btn btn-primary">
-              Go somewhere
+              <strong>Get more information</strong>
             </a>
           </div>
         </div>
