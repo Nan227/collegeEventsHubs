@@ -23,10 +23,7 @@ export default function Sidebar() {
             <li className="sidebarList"> 
               <span className ="sidebarListItemText">Courses </span>
             </li>
-            <li className="sidebarList"> 
-              <span className ="sidebarListItemText">Career center </span>
-            </li>
-            <li className="sidebarList"> 
+             <li className="sidebarList"> 
               <span className ="sidebarListItemText">Bookmarks </span>
             </li>
             <li className="sidebarList"> 
