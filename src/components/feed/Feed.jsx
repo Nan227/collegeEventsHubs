@@ -3,7 +3,9 @@ import './feed.css';
 
 export default function Feed() {
   return (
+    
     <div className="feed">
+      
       <div div className="feedWrapper">
          {/* Top 3 cards */}
          <div className="cardSetTop">
