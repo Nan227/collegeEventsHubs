@@ -81,6 +81,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - It will also be up to date with any news. <br>
 - Students can comment on those events. It also has a study group option.  <br>
 
+![College Events Hubs](https://github.com/Nan227/collegeeventshubs/blob/main/collegeeventshubs.jpg)
+
 ## What problem/challenge does this project address? How does this project address the problem? 
 - Right now, my college event page only shows the upcoming events, but there are not many options that we can do. The only book which events we want. <br>
 - Most of the time students focus on their academic courses, so many times that they want to try to join events at the university, but they need to go to many links. Some events linked are not updated. <br>
