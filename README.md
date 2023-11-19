@@ -2,8 +2,8 @@
 
 ## Giveback Project Proposal (Orange Cohost) 
 
-## Name of the Project  "College Events Hubs" 
-<br>
+# Name of the Project  "College Events Hubs" 
+
 ## Why this project 
 - This project will help college students get easy access to the events that happen at their colleges. <br>
 - It will also be up to date with any news. <br>
