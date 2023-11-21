@@ -23,12 +23,14 @@
   padding:10px;
   margin: 10px;
   list-style: none;
+  cursor: pointer;
   
 }
 .sidebarListItem{
   display: Flex;
   align-items: center;
   margin-bottom: 20px;
+ 
 }
 .sidebarHr{
   margin: 20px 0;

@@ -8,9 +8,11 @@ export default function Sidebar() {
             <li className="sidebarList"> 
               <span className ="sidebarListItemText">Events </span>
             </li>
+          
             <li className="sidebarList"> 
               <span className ="sidebarListItemText">Jobs </span>
             </li>
+            
             <li className="sidebarList"> 
               <span className ="sidebarListItemText">Employers </span>
             </li>
@@ -26,11 +28,11 @@ export default function Sidebar() {
              <li className="sidebarList"> 
               <span className ="sidebarListItemText">Bookmarks </span>
             </li>
-            <a href="#" class="btn btn-primary">
+            
             <li className="sidebarList"> 
              <span className ="sidebarListItemText">Questions </span>
             </li>
-            </a>
+           
           </ul>
          
           
