@@ -26,9 +26,11 @@ export default function Sidebar() {
              <li className="sidebarList"> 
               <span className ="sidebarListItemText">Bookmarks </span>
             </li>
+            <a href="#" class="btn btn-primary">
             <li className="sidebarList"> 
              <span className ="sidebarListItemText">Questions </span>
             </li>
+            </a>
           </ul>
          
           
