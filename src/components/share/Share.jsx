@@ -21,12 +21,17 @@ export default function Share() {
               <hr className ="shareHr"/>
               <div className = "shareBottom">
                 <div className = "shareOptions">
-                  <span className="shareOptionText">Photo or Video"</span>
+                  <div className = "shareOption">
+                    <span className="shareOptionText">Photo or Video"</span>
+                    <span className="shareOptionText">| Tag | </span>
+                    <span className="shareOptionText">| Location | </span>
+                    <span className="shareOptionText">| Opinion | </span>
                 </div>
               </div>          
             </div>
             </div>
             </div>
             </div>
+          </div>
   )
 }
