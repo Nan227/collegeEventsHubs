@@ -1,8 +1,9 @@
 export const Users = [
   {
     id: 1,
-    profilePicture: "assets/profilepictures/ariana.jpg",
-    username: "Ariana Smallwood",
+    profilePicture: "assets/profilepictures/piyaporn.JPG",
+    username: "Piyaporn Puangprasert",
+    
 
 },
 {
@@ -13,8 +14,8 @@ export const Users = [
 },
 {
   id: 3,
-  profilePicture: "assets/profilepictures/piyaporn.JPG",
-  username: "Piyaporn Puangprasert",
+  profilePicture: "assets/profilepictures/ariana.jpg",
+  username: "Ariana Smallwood",
 
 },
 ];

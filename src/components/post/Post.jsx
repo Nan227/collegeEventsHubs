@@ -1,31 +1,32 @@
-import  "./post.css"
+import  "./post.css";
+import {Users} from "../../userData";
 
 export default function Post({post}) {
-  console.log(post)
+  
   return (
     <div className ="post">
     < div className ="postWrapper">
     <div className ="postTop">
       <div div className ="postTopLeft">
-        <img className="postProflieImg" scr = "/assets/profilepictures/piyaporn.JPG"alt= ""/>
+        <img className="postProflieImg" scr = {Users.filter(u=>u.id ===post?.userId)[0].profilePicture}alt= ""/>
         
-        <span className="postUsername">Piyaporn Puangprasert</span>
-        <span className="postDate">5 minutes ago</span>
+        <span className="postUsername">{Users.filter(u=>u.id ===post?.userId)[0].username}</span>
+        <span className="postDate">{post.date}</span>
       </div>
       < div className ="postTopRight">
 
     </div>
     <div className ="postCenter">
-      <span className="postText"> Let's check Google Intern event this Christmas!</span>
-      <img className="postProflieImg" scr = "/assets/companies/google.jpg" alt= ""/>
+      <span className="postText"> {post?.desc}</span>
+      <img className="postProflieImg" scr = {post.photo} alt= ""/>
     <div className ="postBottom"> 
       <div className ="postBottomLeft"> 
       <img className="likeIcon" scr = "/assets/icons/like-48-2.png" alt= ""/>
       <img className="likeIcon" scr = "/assets/icons/like-48.png" alt= ""/>
-      <span className="postLikeCounter">200 people like it</span>
+      <span className="postLikeCounter">{post.like} people like it</span>
       </div>
       <div className ="postBottomRight"> 
-      <span className="postCommentText">7 comments</span>
+      <span className="postCommentText">{post.comment}comments</span>
       </div>
       </div>
     </div>
