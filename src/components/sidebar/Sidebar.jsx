@@ -38,7 +38,7 @@ export default function Sidebar() {
           
           <h3>Online:</h3>
             <hr className = "sidebarHr"/>
-            <ul clssName = "sidebarFriendList">
+            <ul className = "sidebarFriendList">
               <li className ="sidebarFriend">
                 <img className="sidebarFrindImg" src="/assets/profilepictures/liliana.jpg"alt=""/>
                 <span className="sidebarFriendName">Liliana Cortes</span>
