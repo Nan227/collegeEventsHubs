@@ -18,7 +18,7 @@ export default function Feed() {
               Meet up with senior software engineer team and how to gain insight the intern this Summer
             </p>
             <p>Virtual - December 25 at 2:30 ET</p>
-            <a href="#" class="btn btn-primary">
+            <a href="#" className="btn btn-primary">
               <strong>Get more information</strong>
             </a>
             <br/>
@@ -34,7 +34,7 @@ export default function Feed() {
               Meet up with senior software engineer team and how to gain insight the intern this Summer
             </p>
             <p>Virtual - December 25 at 2:30 ET</p>
-            <a href="#" class="btn btn-primary">
+            <a href="#" className="btn btn-primary">
               <strong>Get more information</strong>
             </a>
           </div>
@@ -49,7 +49,7 @@ export default function Feed() {
               Meet up with senior software engineer team and how to gain insight the intern this Summer
             </p>
             <p>Virtual - December 25 at 2:30 ET</p>
-            <a href="#" class="btn btn-primary">
+            <a href="#" className="btn btn-primary">
               <strong>Get more information</strong>
             </a>
           </div>
@@ -67,7 +67,7 @@ export default function Feed() {
               Meet up with senior software engineer team and how to gain insight the intern this Summer
             </p>
             <p>Virtual - December 25 at 2:30 ET</p>
-            <a href="#" class="btn btn-primary">
+            <a href="#" className="btn btn-primary">
               <strong>Get more information</strong>
             </a>
           </div>
@@ -83,7 +83,7 @@ export default function Feed() {
               Meet up with senior software engineer team and how to gain insight the intern this Summer
             </p>
             <p>Virtual - December 25 at 2:30 ET</p>
-            <a href="#" class="btn btn-primary">
+            <a href="#" className="btn btn-primary">
               <strong>Get more information</strong>
             </a>
           </div>
@@ -98,7 +98,7 @@ export default function Feed() {
               Meet up with senior software engineer team and how to gain insight the intern this Summer
             </p>
             <p>Virtual - December 25 at 2:30 ET</p>
-            <a href="#" class="btn btn-primary">
+            <a href="#" className="btn btn-primary">
               <strong>Get more information</strong>
             </a>
           </div>
