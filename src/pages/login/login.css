@@ -1,0 +1,28 @@
+.login{
+  width: 100vw;
+  height: 100vh;
+  background-color: aquamarine;
+  display:flex;
+  justify-content: center;
+}
+.loginWrapper{
+  width: 70%;
+  height: 70%;
+  display:flex;
+}
+.loginLeft, .loginRight{
+  flex: 1;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.liginLogo{
+  font-size: 60px;
+  font-weight: 800;
+  color: rgb(17, 140, 82);
+  margin-bottom: 10px;
+
+}
+.loginDese{
+  font-size: 24px;
+}
