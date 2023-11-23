@@ -1,10 +1,11 @@
-const express = require("express");
-const app = express();
-const mongoose = require("mongoose");
-const dotenv = require("dotenv");
-const helmet = require("helmet");
-const morgan = require("morgan");
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
 
-app.listen(5000,() =>{
-  console.log("Backend sever is runing!")
-})
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);

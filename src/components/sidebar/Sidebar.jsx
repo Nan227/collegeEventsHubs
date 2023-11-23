@@ -1,5 +1,4 @@
-import "./sidebar.css";
-
+import "./sidebar.css" 
 export default function Sidebar() {
 
   return(
@@ -39,7 +38,7 @@ export default function Sidebar() {
           
           <h3>Online:</h3>
             <hr className = "sidebarHr"/>
-            <ul className = "sidebarFriendList">
+            <ul clssName = "sidebarFriendList">
               <li className ="sidebarFriend">
                 <img className="sidebarFrindImg" src="/assets/profilepictures/liliana.jpg"alt=""/>
                 <span className="sidebarFriendName">Liliana Cortes</span>
