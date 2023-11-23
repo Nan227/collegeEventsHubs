@@ -20,7 +20,7 @@
 
 
 ### YouTube short demo
-[![YouTube Linked](https://github.com/Nan227/collegeeventshubs/blob/main/project%20overveiw.jpg)](https://www.youtube.com/watch?v=DxjwVFoMzgA)
+[![YouTube Linked](https://github.com/Nan227/collegeeventshubs/blob/main/project%20overveiw.jpg)](https://www.youtube.com/watch?v=DxjwVFoMzgA| width=100)
 
 ## What are the specific intended outcomes for this project? How will the success of this project be measured? 
 - Help students join the events easily. We can measure how many active accounts are on the system.<br>
@@ -46,7 +46,7 @@
 ## Website deployed at Heroku here <br>
 https://eventshubcollege-3ac7bb48c4fa.herokuapp.com/ <br>
 
-![College Events Hubs on Herohu](https://github.com/Nan227/collegeeventshubs/blob/main/qr-code.png)
+![College Events Hubs on Herohu](https://github.com/Nan227/collegeeventshubs/blob/main/qr-code.png| width=30)
 
 ### Create by <br>
 Ariana Smallwood,<br> 
