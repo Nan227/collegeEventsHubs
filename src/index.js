@@ -1,4 +1,4 @@
-import React from 'react';
+{/*import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 
@@ -8,4 +8,10 @@ root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
-);
+);*/}
+const express = require("express");
+const app = express();
+
+app.listen(8800,() =>{
+  console.log("Backend sever is runing!")
+})
