@@ -26,3 +26,38 @@
 .loginDese{
   font-size: 24px;
 }
+.loginBox{
+  height: 300px;
+  padding: 20px;
+  background-color: beige;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+.loginInput{
+  height: 50p;
+  border-radius: 10px;
+  border: 1px solid gray;
+  font-size: 18px;
+  padding-left: 20px;
+}
+.loginInput:focus{
+  outline: none;
+}
+.loginButton{
+  height: 50px;
+  border-radius: 10px;
+  border: none;
+  background-color: aquamarine;
+  color: black;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.loginForgot{
+  text-align: center;
+  color: aqua;
+}
+
