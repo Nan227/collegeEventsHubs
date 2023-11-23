@@ -47,7 +47,7 @@
 https://eventshubcollege-3ac7bb48c4fa.herokuapp.com/ <br>
 
 
-<img src="https://github.com/Nan227/collegeeventshubs/blob/main/qr-code.png" width="50" height="50">
+<img src="https://github.com/Nan227/collegeeventshubs/blob/main/qr-code.png" width="100" height="100">
 ### Create by <br>
 Ariana Smallwood,<br> 
 Liliana Cortes, <br> 
