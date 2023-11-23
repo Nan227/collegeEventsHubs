@@ -9,7 +9,7 @@
 - It will also be up to date with any news. <br>
 - Students can comment on those events. It also has a study group option.  <br>
 
-## Demo [YouTube](https://www.youtube.com/watch?v=DxjwVFoMzgA)
+## Demo 
 
 ![College Events Hubs](https://github.com/Nan227/collegeeventshubs/blob/main/collegeeventshubs.jpg)
 
@@ -18,7 +18,9 @@
 - Most of the time students focus on their academic courses, so many times that they want to try to join events at the university, but they need to go to many links. Some events linked are not updated. <br>
 - Many immigrant students lack information on where they can expand their networking, connect to the university community, and stay informed in general. 
 
-<br>
+
+### YouTube short demo
+[![YouTube Linked](https://github.com/Nan227/collegeeventshubs/blob/main/project%20overveiw.jpg)](https://www.youtube.com/watch?v=DxjwVFoMzgA)
 
 ## What are the specific intended outcomes for this project? How will the success of this project be measured? 
 - Help students join the events easily. We can measure how many active accounts are on the system.<br>
@@ -43,6 +45,8 @@
 
 ## Website deployed at Heroku here <br>
 https://eventshubcollege-3ac7bb48c4fa.herokuapp.com/ <br>
+
+![College Events Hubs on Herohu](https://github.com/Nan227/collegeeventshubs/blob/main/qr-code.png)
 
 ### Create by <br>
 Ariana Smallwood,<br> 
