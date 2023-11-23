@@ -46,8 +46,8 @@
 ## Website deployed at Heroku here <br>
 https://eventshubcollege-3ac7bb48c4fa.herokuapp.com/ <br>
 
-![College Events Hubs on Herohu](https://github.com/Nan227/collegeeventshubs/blob/main/qr-code.png = 50x50)
 
+<img src="https://github.com/Nan227/collegeeventshubs/blob/main/qr-code.png" width="50" height="50">
 ### Create by <br>
 Ariana Smallwood,<br> 
 Liliana Cortes, <br> 
