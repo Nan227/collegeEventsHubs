@@ -13,9 +13,7 @@ server.use(
   })
 );
 
-server.use(router);
+server.user(router);
 server.listen(port, () => {
-  
-  console.log("Server is running on ${port}"); // Fix the backticks for string interpolation
-
+  console.log('Server is running on ${port}');
 });
