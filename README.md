@@ -7,7 +7,7 @@
 ## Why this project 
 - This project will help college students get easy access to the events that happen at their colleges. <br>
 - It will also be up to date with any news. <br>
-- Students can comment on those events. It also has a study group option.  <br>
+- Students can comment on those events.  <br>
 
 ## Demo 
 
